@@ -1,0 +1,1 @@
+import{j as t}from"./index-B91Y6jiP.js";import{M as e,C as r}from"./PostLaptopStoryPage-DosUIBZ9.js";import"./BlackScreenText-BKYbbdRF.js";function l(){return t.jsx(e,{stage:"cellar",nodeId:"chapter3-cellar",title:"地窖",segments:r})}export{l as default};

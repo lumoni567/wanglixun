@@ -1,0 +1,1 @@
+import{j as s}from"./index-B91Y6jiP.js";function r({serverTime:t,identity:e}){return s.jsxs("footer",{className:"oa2-statusbar",children:[s.jsx("span",{children:"𫵷山文旅员工办公系统 v3.2.1"}),s.jsxs("span",{className:"oa2-status-identity",title:`当前登录：${e}`,children:["当前登录：",e]}),s.jsxs("time",{"aria-label":"服务器时间",children:["服务器时间：",t]})]})}export{r as e};

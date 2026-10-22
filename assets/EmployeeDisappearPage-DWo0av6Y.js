@@ -1,0 +1,1 @@
+import{j as e}from"./index-B91Y6jiP.js";import{M as t,D as r}from"./PostLaptopStoryPage-DosUIBZ9.js";import"./BlackScreenText-BKYbbdRF.js";function s(){return e.jsx(t,{stage:"disappearance",nodeId:"chapter3-employee-disappear",title:"员工消失事件",segments:r})}export{s as default};

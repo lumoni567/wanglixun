@@ -1,0 +1,1 @@
+import{j as r}from"./index-B91Y6jiP.js";/* empty css                     */import{_ as t}from"./FinalEndingPage-D2YNR7rO.js";import"./BlackScreenText-BKYbbdRF.js";import"./PostLaptopStoryPage-DosUIBZ9.js";function e(){return r.jsx(t,{ending:"A"})}export{e as default};

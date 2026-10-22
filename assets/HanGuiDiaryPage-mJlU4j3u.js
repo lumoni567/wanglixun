@@ -1,0 +1,1 @@
+import{j as t}from"./index-B91Y6jiP.js";import{M as r,y as e}from"./PostLaptopStoryPage-DosUIBZ9.js";import"./BlackScreenText-BKYbbdRF.js";function n(){return t.jsx(r,{stage:"diary",nodeId:"chapter3-hangui-diary",title:"韩归的日记",segments:e})}export{n as default};
